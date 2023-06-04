@@ -1,2 +1,1 @@
-# bigJordan
-# sdfgbdfg
+# bigJordan's data
